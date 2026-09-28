@@ -1,0 +1,18 @@
+# dataset (1,2 GB) - baixar pelo link no README
+in/operacoes_comerciais_inteira.csv
+*.csv.gz
+
+# saidas geradas
+output/
+out/
+resultados_esperados/
+
+# IntelliJ pessoal
+.idea/workspace.xml
+.idea/shelf/
+
+# lixo
+.DS_Store
+hadoop-3.2.1/bin/*.pdb
+hadoop-3.2.1/bin/*.lib
+hadoop-3.2.1/bin/*.exp
